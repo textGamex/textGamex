@@ -3,3 +3,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=textGamex&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stat](https://github-readme-stats.vercel.app/api/wakatime?username=textGamex)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://count.getloli.com/get/@textGamex.github.readme)
