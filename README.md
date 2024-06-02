@@ -1,5 +1,6 @@
 
-![wallhaven-858k3j](https://github.com/textGamex/textGamex/assets/69706040/237258b6-9750-49ed-80b5-62a64c0498ea)
+![wallhaven-jxjdew](https://github.com/textGamex/textGamex/assets/69706040/1cf2ed85-9ac3-4c1a-a250-00915f5d1313)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=textGamex&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
