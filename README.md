@@ -7,3 +7,5 @@
 [![textGamex's GitHub stats](https://github-readme-stats.vercel.app/api?username=textGamex&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://count.getloli.com/get/@textGamex.github.readme)
+
+![](https://visitor-badge.glitch.me/badge?page_id=textGamex.github.home&left_color=green&right_color=red)
