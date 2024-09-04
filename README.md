@@ -1,3 +1,7 @@
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,md,mysql,obsidian,unity,visualstudio,vscode,rider)](https://skillicons.dev)
+
+---
 
 ![wallhaven-jxjdew](https://github.com/textGamex/textGamex/assets/69706040/1cf2ed85-9ac3-4c1a-a250-00915f5d1313)
 
