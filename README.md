@@ -1,5 +1,5 @@
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,md,mysql,obsidian,unity,visualstudio,vscode,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,md,mysql,obsidian,unity,visualstudio,vscode,rider，windows)](https://skillicons.dev)
 
 ---
 
