@@ -1,5 +1,5 @@
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,md,mysql,obsidian,unity,visualstudio,vscode,rider,windows)](https://skillicons.dev)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=csharp,dotnet,git,avaloniaui,winui,github,md,mysql,obsidian,visualstudio,vscode,rider)
 
 ---
 ![1642466067179](https://github.com/user-attachments/assets/1d159c79-bdef-44b1-b97c-420f4dae8c8c)
